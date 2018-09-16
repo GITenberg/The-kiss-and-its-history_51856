@@ -1,5 +1,5 @@
 _repo: The-kiss-and-its-history_51856
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Kysset og dets historie. English
 contributor:
   translator:
@@ -8,15 +8,20 @@ contributor:
     birthdate: 1853
     gutenberg_agent_id: '46577'
     url: http://www.gutenberg.org/2009/agents/46577
+covers:
+- cover_type: archival
+  image_path: 51856-h/images/cover.jpg
 creator:
   author:
     agent_name: Nyrop, Kristoffer
     alias: Nyrop, Christopher
-    birthdate: &id001 1858
-    deathdate: *id001
+    birthdate: 1858
+    deathdate: 1858
     gutenberg_agent_id: '46576'
     url: http://www.gutenberg.org/2009/agents/46576
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51856#The-kiss-and-its-history
 gutenberg_issued: '2016-04-24'
 gutenberg_type: Text
 identifiers:
