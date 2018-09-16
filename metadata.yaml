@@ -1,0 +1,33 @@
+_repo: The-kiss-and-its-history_51856
+_version: 0.0.1
+alternative_title: Kysset og dets historie. English
+contributor:
+  translator:
+    agent_name: Harvey, William Frederick
+    alias: Harvey, W. F. (William Frederick)
+    birthdate: 1853
+    gutenberg_agent_id: '46577'
+    url: http://www.gutenberg.org/2009/agents/46577
+creator:
+  author:
+    agent_name: Nyrop, Kristoffer
+    alias: Nyrop, Christopher
+    birthdate: &id001 1858
+    deathdate: *id001
+    gutenberg_agent_id: '46576'
+    url: http://www.gutenberg.org/2009/agents/46576
+description: ''
+gutenberg_issued: '2016-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kissing'
+- !lcc 'GT'
+- GITenberg
+title: The kiss and its history
+url: http://www.gutenberg.org/ebooks/51856
